@@ -11,7 +11,7 @@ Trabalho de Conclusão do Curso
 - Cadastro de Fornecedores
 - Cadastro de Grupo de Produtos
 
-## O que deveria conter no banco de dados
+## O que irá conter no banco de dados
 
 - Usuário
 - Material
